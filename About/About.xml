@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Vanilla Animals Expanded — Endangered and Recently Extinct</name>
+	<author>Oskar Potocki, Erin, Sarg Bjornson</author>
+	<supportedVersions><li>1.2</li></supportedVersions>
+	<packageId>VanillaExpanded.VAEEndAndExt</packageId>
+	<description>Oskar poopoo.</description>
+	<modDependencies>
+        <li>
+			<packageId>OskarPotocki.VanillaFactionsExpanded.Core</packageId>
+			<displayName>Vanilla Factions Expanded - Core</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=1854607105</steamWorkshopUrl>
+		</li>
+	</modDependencies>
+</ModMetaData>
