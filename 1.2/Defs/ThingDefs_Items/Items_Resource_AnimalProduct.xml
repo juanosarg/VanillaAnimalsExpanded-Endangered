@@ -26,7 +26,7 @@
   </ThingDef>
   
   
-  <!-- Rockhopper Penguin --> 
+  <!-- Rockhopper Penguin Eggs --> 
 
   <ThingDef ParentName="EggFertBase">
     <defName>AEXP_EggRockhopperPenguinFertilized</defName>
