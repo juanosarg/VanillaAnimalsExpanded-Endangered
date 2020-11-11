@@ -10,18 +10,36 @@
 
 
 			<li Class="PatchOperationAdd">
-				<xpath>/Defs/RecipeDef[defName = "GR_ExtractGenesRodent"]/ingredients/li/filter/thingDefs</xpath>
+				<xpath>/Defs/RecipeDef[defName = "GR_ExtractGenesBear"]/ingredients/li/filter/thingDefs</xpath>
 				<value>
-					<li>Corpse_AEXP_Beaver</li>
+					<li>Corpse_AEXP_Panda</li>
 					
 
 				</value>
 			</li>
 
 			<li Class="PatchOperationAdd">
-				<xpath>/Defs/RecipeDef[defName = "GR_ExtractGenesRodent"]/fixedIngredientFilter/thingDefs</xpath>
+				<xpath>/Defs/RecipeDef[defName = "GR_ExtractGenesBear"]/fixedIngredientFilter/thingDefs</xpath>
 				<value>
-					<li>Corpse_AEXP_Beaver</li>
+					<li>Corpse_AEXP_Panda</li>
+					
+
+				</value>
+			</li>	
+			
+			<li Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[defName = "GR_ExtractGenesWolf"]/ingredients/li/filter/thingDefs</xpath>
+				<value>
+					<li>Corpse_AEXP_AfricanWildDog</li>
+					
+
+				</value>
+			</li>
+
+			<li Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[defName = "GR_ExtractGenesWolf"]/fixedIngredientFilter/thingDefs</xpath>
+				<value>
+					<li>Corpse_AEXP_AfricanWildDog</li>
 					
 
 				</value>
@@ -32,7 +50,8 @@
 			<li Class="PatchOperationAdd">
 				<xpath>/Defs/RecipeDef[defName = "GR_ExtractGenesChicken"]/ingredients/li/filter/thingDefs</xpath>
 				<value>
-					<li>Corpse_AEXP_WildGoose</li>
+					<li>Corpse_AEXP_Moa</li>
+					<li>Corpse_AEXP_RockhopperPenguin</li>
 					
 
 				</value>
@@ -41,8 +60,8 @@
 			<li Class="PatchOperationAdd">
 				<xpath>/Defs/RecipeDef[defName = "GR_ExtractGenesChicken"]/fixedIngredientFilter/thingDefs</xpath>
 				<value>
-					<li>Corpse_AEXP_WildGoose</li>
-					
+					<li>Corpse_AEXP_Moa</li>
+					<li>Corpse_AEXP_RockhopperPenguin</li>
 
 				</value>
 			</li>
