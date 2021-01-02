@@ -118,7 +118,7 @@
 			<soundMeleeMiss>Pawn_Melee_SmallScratch_Miss</soundMeleeMiss>
 		</race>
 		<tradeTags>
-			<li>AnimalCommon</li>
+			<li>AnimalEndangered</li>
 		</tradeTags>
 	</ThingDef>
 
@@ -257,8 +257,7 @@
 			<soundMeleeMiss>Pawn_Melee_BigBash_Miss</soundMeleeMiss>
 		</race>
 		<tradeTags>
-			<li>AnimalUncommon</li>
-			<li>AnimalFighter</li>
+			<li>AnimalEndangered</li>
 		</tradeTags>
 	</ThingDef>
 	<PawnKindDef ParentName="AnimalKindBase">
@@ -409,7 +408,7 @@
 			<soundMeleeMiss>Pawn_Melee_SmallScratch_Miss</soundMeleeMiss>
 		</race>
 		<tradeTags>
-			<li>AnimalUncommon</li>
+			<li>AnimalEndangered</li>
 		</tradeTags>
 	</ThingDef>
 
@@ -544,7 +543,7 @@
 			</li>
 		</tools>
 		<tradeTags>
-			<li>AnimalUncommon</li>
+			<li>AnimalEndangered</li>
 		</tradeTags>
 	</ThingDef>
 
@@ -711,8 +710,7 @@
 			<soundMeleeMiss>Pawn_Melee_BigBash_Miss</soundMeleeMiss>
 		</race>
 		<tradeTags>
-			<li>AnimalUncommon</li>
-			<li>AnimalFighter</li>
+			<li>AnimalEndangered</li>
 		</tradeTags>
 	</ThingDef>
 
@@ -864,7 +862,7 @@
 			<soundMeleeMiss>Pawn_Melee_BigBash_Miss</soundMeleeMiss>
 		</race>
 		<tradeTags>
-			<li>AnimalUncommon</li>
+			<li>AnimalEndangered</li>
 		</tradeTags>
 	</ThingDef>
 	<PawnKindDef ParentName="AnimalKindBase">
@@ -1037,7 +1035,7 @@
 			<soundMeleeMiss>Pawn_Melee_SmallScratch_Miss</soundMeleeMiss>
 		</race>		
 		<tradeTags>
-			<li>AnimalUncommon</li>
+			<li>AnimalEndangered</li>
 		</tradeTags>
 	</ThingDef>
 
@@ -1195,8 +1193,7 @@
 			<soundMeleeMiss>Pawn_Melee_SmallScratch_Miss</soundMeleeMiss>
 		</race>
 		<tradeTags>
-			<li>AnimalUncommon</li>
-			<li>AnimalPet</li>
+			<li>AnimalEndangered</li>
 		</tradeTags>
 	</ThingDef>
 
@@ -1349,8 +1346,7 @@
 			<soundMeleeMiss>Pawn_Melee_SmallScratch_Miss</soundMeleeMiss>
 		</race>
 		<tradeTags>
-			<li>AnimalUncommon</li>
-			<li>AnimalPet</li>
+			<li>AnimalEndangered</li>
 		</tradeTags>
 	</ThingDef>
 
@@ -1537,8 +1533,7 @@
 			<soundMeleeMiss>Pawn_Melee_SmallScratch_Miss</soundMeleeMiss>
 		</race>
 		<tradeTags>
-			<li>AnimalUncommon</li>
-			<li>AnimalFighter</li>
+			<li>AnimalEndangered</li>
 		</tradeTags>
 	</ThingDef>
 
@@ -1684,7 +1679,7 @@
 			<soundMeleeMiss>Pawn_Melee_SmallScratch_Miss</soundMeleeMiss>
 		</race>
 		<tradeTags>
-			<li>AnimalUncommon</li>
+			<li>AnimalEndangered</li>
 		</tradeTags>
 	</ThingDef>
 
