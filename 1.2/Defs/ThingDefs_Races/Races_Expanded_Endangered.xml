@@ -8,7 +8,7 @@
 	<ThingDef ParentName="AnimalThingBase">
 		<defName>AEXP_BlackFootedFerret</defName>
 		<label>black-footed ferret</label>
-		<description>A small, nocturnal member of the weasel family that feeds on other, smaller mammals. It has a long body and yellowish-brown fur with a blackish wash of fur on its back, and a black mask around its eyes.\n\nReal World Conservation Status: Endangered. Black-footed ferrets are the most endangered mammals in North America, and they were thought extinct in 1976. A small group was rediscovered in 1981, bred in captivity and carefully released. As of 2020, fewer than 500 black-footed ferrets live in the wild at 17 reintroduction sites —a population well below the 3,000 needed to fully recover the species.</description>
+		<description>A small, nocturnal member of the weasel family that feeds on other, smaller mammals. It has a long body and yellowish-brown fur with a blackish wash of fur on its back, and a black mask around its eyes.\n\n&lt;color=#33d733&gt;Real World Conservation Status:&lt;/color&gt; Endangered. Black-footed ferrets are the most endangered mammals in North America, and they were thought extinct in 1976. A small group was rediscovered in 1981, bred in captivity and carefully released. As of 2020, fewer than 500 black-footed ferrets live in the wild at 17 reintroduction sites —a population well below the 3,000 needed to fully recover the species.</description>
 		<statBases>
 			<MoveSpeed>4</MoveSpeed>
 			<MarketValue>175</MarketValue>
@@ -174,7 +174,7 @@
 	<ThingDef ParentName="AnimalThingBase">
 		<defName>AEXP_BlackRhino</defName>
 		<label>black rhinoceros</label>
-		<description>A huge herbivorous mammal with a temperamental disposition. Black rhinos differ from their white relatives in their slightly smaller size and in lip shape. The black rhino has a pointed upper lip, while whites have a squared lip, a difference related to the animals' diets: Black rhinos are browsers that get most of their sustenance from eating from bushes.\n\nReal World Conservation Status: Critically endangered. Three of the seven subspecies of black rhino have become extinct since 1850  and one is on the brink of extinction. As of 2020, thanks to the persistent efforts of conservation programmes across Africa, black rhino numbers have risen to a current population of between 5,366 and 5,627 individuals.</description>
+		<description>A huge herbivorous mammal with a temperamental disposition. Black rhinos differ from their white relatives in their slightly smaller size and in lip shape. The black rhino has a pointed upper lip, while whites have a squared lip, a difference related to the animals' diets: Black rhinos are browsers that get most of their sustenance from eating from bushes.\n\n&lt;color=#33d733&gt;Real World Conservation Status:&lt;/color&gt; Critically endangered. Three of the seven subspecies of black rhino have become extinct since 1850  and one is on the brink of extinction. As of 2020, thanks to the persistent efforts of conservation programmes across Africa, black rhino numbers have risen to a current population of between 5,366 and 5,627 individuals.</description>
 		<statBases>
 			<MoveSpeed>5.0</MoveSpeed>
 			<MarketValue>700</MarketValue>
@@ -322,7 +322,7 @@
 	<ThingDef ParentName="AnimalThingBase">
 		<defName>AEXP_Bonobo</defName>
 		<label>bonobo</label>
-		<description>The bonobo is a great ape, a smaller relative of the chimpanzee with a rounder skull and flatter face. Bonobos have longer legs, shorter arms, and a narrower trunk. Bonobos exhibit remarkably different social behavior from chimpanzees, with an emphasis on peacemaking, and sex as a tool to manage and diffuse tension.\n\nReal World Conservation Status: Endangered. Populations have declined rapidly over the last 30 years, but there are no reliable estimates for current bonobo numbers. Their habitat inside the Democratic Republic of the Congo is often threatened by political instability.</description>
+		<description>The bonobo is a great ape, a smaller relative of the chimpanzee with a rounder skull and flatter face. Bonobos have longer legs, shorter arms, and a narrower trunk. Bonobos exhibit remarkably different social behavior from chimpanzees, with an emphasis on peacemaking, and sex as a tool to manage and diffuse tension.\n\n&lt;color=#33d733&gt;Real World Conservation Status:&lt;/color&gt; Endangered. Populations have declined rapidly over the last 30 years, but there are no reliable estimates for current bonobo numbers. Their habitat inside the Democratic Republic of the Congo is often threatened by political instability.</description>
 		<statBases>
 			<MoveSpeed>3</MoveSpeed>
 			<MarketValue>200</MarketValue>
@@ -470,7 +470,7 @@
 	<ThingDef ParentName="BigBirdThingBase">
 		<defName>AEXP_Moa</defName>
 		<label>moa</label>
-		<description>A very large herbivore flightless bird native to the Old Earth islands of New Zealand. The moas lacked even the vestigial wings that all other ratites have. Moas feed on a range of plant species and plant parts, including fibrous twigs and leaves taken from low trees and shrubs.\n\nReal World Conservation Status: Recently extinct. Moa were the dominant herbivore in New Zealand before the arrival of humans. Polynesians arrived sometime before 1300, and all moa genera were soon driven to extinction by hunting and, to a lesser extent, by habitat reduction due to forest clearance. By 1445, all moa had become extinct.</description>
+		<description>A very large herbivore flightless bird native to the Old Earth islands of New Zealand. The moas lacked even the vestigial wings that all other ratites have. Moas feed on a range of plant species and plant parts, including fibrous twigs and leaves taken from low trees and shrubs.\n\n&lt;color=#33d733&gt;Real World Conservation Status:&lt;/color&gt; Recently extinct. Moa were the dominant herbivore in New Zealand before the arrival of humans. Polynesians arrived sometime before 1300, and all moa genera were soon driven to extinction by hunting and, to a lesser extent, by habitat reduction due to forest clearance. By 1445, all moa had become extinct.</description>
 		<statBases>
 			<MoveSpeed>5</MoveSpeed>
 			<MarketValue>450</MarketValue>
@@ -605,7 +605,7 @@
 	<ThingDef ParentName="AnimalThingBase">
 		<defName>AEXP_Panda</defName>
 		<label>giant panda</label>
-		<description>The panda, with its distinctive and luxuriant black and white fur, is a herviborous bear adapted to life in bamboo forests. The average giant panda eats as much as 9 to 14 kg of bamboo shoots a day to compensate for the limited energy content of its diet. Pandas are generally less agressive than other bear species.\n\nReal World Conservation Status: Vulnerable. Recently upgraded from endangered status (as of 2020), wild panda numbers are finally rebounding after years of decline. Habitat loss is their main threat.</description>
+		<description>The panda, with its distinctive and luxuriant black and white fur, is a herviborous bear adapted to life in bamboo forests. The average giant panda eats as much as 9 to 14 kg of bamboo shoots a day to compensate for the limited energy content of its diet. Pandas are generally less agressive than other bear species.\n\n&lt;color=#33d733&gt;Real World Conservation Status:&lt;/color&gt; Vulnerable. Recently upgraded from endangered status (as of 2020), wild panda numbers are finally rebounding after years of decline. Habitat loss is their main threat.</description>
 		<statBases>
 			<MoveSpeed>3</MoveSpeed>
 			<ComfyTemperatureMin>-40</ComfyTemperatureMin>
@@ -780,7 +780,7 @@
 	<ThingDef ParentName="AnimalThingBase">
 		<defName>AEXP_Quagga</defName>
 		<label>quagga</label>
-		<description>The quagga is a subspecies of the plains zebra. It is distinguished from other zebras by its limited pattern of primarily brown and white stripes, mainly on the front part of the body. The rear is brown and without stripes, and appears more horse-like.\n\nReal World Conservation Status: Recently Extinct. Quaggas became extinct late in the 19th century due to overhunting by Afrikaners. The Quagga Project was started in 1987 in South Africa to create a quagga-like zebra population by selectively breeding for a reduced stripe pattern from plains zebra stock, with the eventual aim of introducing them to the quagga's former range.</description>
+		<description>The quagga is a subspecies of the plains zebra. It is distinguished from other zebras by its limited pattern of primarily brown and white stripes, mainly on the front part of the body. The rear is brown and without stripes, and appears more horse-like.\n\n&lt;color=#33d733&gt;Real World Conservation Status:&lt;/color&gt; Recently Extinct. Quaggas became extinct late in the 19th century due to overhunting by Afrikaners. The Quagga Project was started in 1987 in South Africa to create a quagga-like zebra population by selectively breeding for a reduced stripe pattern from plains zebra stock, with the eventual aim of introducing them to the quagga's former range.</description>
 		<statBases>
 			<MoveSpeed>7.2</MoveSpeed>
 			<MarketValue>750</MarketValue>
@@ -934,7 +934,7 @@
 	<ThingDef ParentName="AnimalThingBase">
 		<defName>AEXP_RockhopperPenguin</defName>
 		<label>rockhopper penguin</label>
-		<description>Much smaller in size than the emperor penguin, rockhopper penguins weigh less than 10 pounds. They were named for their distinctive hopping movements over the rocky hills and cliffs where they live and breed.\n\nReal World Conservation Status: Vulnerable. In the last 30 years, it is estimated that the population of rockhoppers has fallen by nearly 25%—and now climate change could place them at even greater risk.</description>
+		<description>Much smaller in size than the emperor penguin, rockhopper penguins weigh less than 10 pounds. They were named for their distinctive hopping movements over the rocky hills and cliffs where they live and breed.\n\n&lt;color=#33d733&gt;Real World Conservation Status:&lt;/color&gt; Vulnerable. In the last 30 years, it is estimated that the population of rockhoppers has fallen by nearly 25%—and now climate change could place them at even greater risk.</description>
 		<statBases>
 			<MoveSpeed>2</MoveSpeed>
 			<MarketValue>120</MarketValue>
@@ -1104,7 +1104,7 @@
 	<ThingDef ParentName="AnimalThingBase">
 		<defName>AEXP_TasmanianDevil</defName>
 		<label>tasmanian devil</label>
-		<description>A carnivorous marsupial characterised by its stocky and muscular build, black fur, pungent odour, extremely loud and disturbing screech, keen sense of smell, and ferocity when feeding.\n\nReal World Conservation Status: Endangered. Experts estimate that the devil has suffered a more than 80% decline in its population since the mid-1990s. It is estimated that fewer than 25,000 Tasmanian devils still live in the wild.</description>
+		<description>A carnivorous marsupial characterised by its stocky and muscular build, black fur, pungent odour, extremely loud and disturbing screech, keen sense of smell, and ferocity when feeding.\n\n&lt;color=#33d733&gt;Real World Conservation Status:&lt;/color&gt; Endangered. Experts estimate that the devil has suffered a more than 80% decline in its population since the mid-1990s. It is estimated that fewer than 25,000 Tasmanian devils still live in the wild.</description>
 		<statBases>
 			<MoveSpeed>5.0</MoveSpeed>
 			<MarketValue>450</MarketValue>
@@ -1262,7 +1262,7 @@
 	<ThingDef ParentName="AnimalThingBase">
 		<defName>AEXP_Thylacine</defName>
 		<label>thylacine</label>
-		<description>Commonly known as the Tasmanian tiger because of its striped lower back, the Thylacine is a shy and nocturnal carnivorous predator, with the general appearance of a medium-to-large-size dog, except for its stiff tail and abdominal pouch similar to a kangaroo's.\n\nReal World Conservation Status: Recently Extinct. The last known thylacine died from exposure at the Beaumaris Zoo in Hobart in 1936. While it is estimated there were around 5000 thylacines in Tasmania at the time of European settlement, excessive hunting, combined with factors such as habitat destruction and introduced disease, led to the rapid extinction of the species.</description>
+		<description>Commonly known as the Tasmanian tiger because of its striped lower back, the Thylacine is a shy and nocturnal carnivorous predator, with the general appearance of a medium-to-large-size dog, except for its stiff tail and abdominal pouch similar to a kangaroo's.\n\n&lt;color=#33d733&gt;Real World Conservation Status:&lt;/color&gt; Recently Extinct. The last known thylacine died from exposure at the Beaumaris Zoo in Hobart in 1936. While it is estimated there were around 5000 thylacines in Tasmania at the time of European settlement, excessive hunting, combined with factors such as habitat destruction and introduced disease, led to the rapid extinction of the species.</description>
 		<statBases>
 			<MoveSpeed>5.0</MoveSpeed>
 			<MarketValue>650</MarketValue>
@@ -1419,7 +1419,7 @@
 	<ThingDef ParentName="AnimalThingBase">
 		<defName>AEXP_AfricanWildDog</defName>
 		<label>african wild dog</label>
-		<description>A large canine, distinguished from dogs and wolves by dentition highly specialised for a hypercarnivorous diet, and a lack of dewclaws. The African wild dog is a highly social animal, living in packs. Like most wild canines, they prefer to stay as far away from humans as possible.\n\nReal World Conservation Status: Endangered. The African wild dog is primarily threatened by habitat fragmentation, which results in human–wildlife conflict, transmission of infectious diseases and high mortality rates. It is estimated that about 6,600 adults survive as of 2020.</description>
+		<description>A large canine, distinguished from dogs and wolves by dentition highly specialised for a hypercarnivorous diet, and a lack of dewclaws. The African wild dog is a highly social animal, living in packs. Like most wild canines, they prefer to stay as far away from humans as possible.\n\n&lt;color=#33d733&gt;Real World Conservation Status:&lt;/color&gt; Endangered. The African wild dog is primarily threatened by habitat fragmentation, which results in human–wildlife conflict, transmission of infectious diseases and high mortality rates. It is estimated that about 6,600 adults survive as of 2020.</description>
 		<statBases>
 			<MoveSpeed>5.0</MoveSpeed>
 			<MarketValue>750</MarketValue>
@@ -1603,7 +1603,7 @@
 		<defName>AEXP_Pangolin</defName>
 		<label>giant pangolin</label>
 		<tickerType>Normal</tickerType>
-		<description>Sometimes known as scaly anteaters, pangolins are mammals with large, protective keratin scales covering their skin. Pangolins are nocturnal, and their diet consists of mainly ants and termites, which they capture using their long tongues. They tend to be solitary animals, meeting only to mate.\n\nReal World Conservation Status: Endangered. The giant pangolin is threatened by habitat destruction and deforestation, and hunting for the bushmeat trade. Pangolins have become the most heavily trafficked wild mammal in the world.</description>
+		<description>Sometimes known as scaly anteaters, pangolins are mammals with large, protective keratin scales covering their skin. Pangolins are nocturnal, and their diet consists of mainly ants and termites, which they capture using their long tongues. They tend to be solitary animals, meeting only to mate.\n\n&lt;color=#33d733&gt;Real World Conservation Status:&lt;/color&gt; Endangered. The giant pangolin is threatened by habitat destruction and deforestation, and hunting for the bushmeat trade. Pangolins have become the most heavily trafficked wild mammal in the world.</description>
 		<statBases>
 			<MoveSpeed>2</MoveSpeed>
 			<MarketValue>750</MarketValue>
