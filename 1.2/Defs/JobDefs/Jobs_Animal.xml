@@ -8,8 +8,12 @@
 		<allowOpportunisticPrefix>true</allowOpportunisticPrefix>
 	</JobDef>
 
-	
 
-
+	<JobDef>
+		<defName>AEXP_GotoTheWild</defName>
+		<driverClass>VanillaAnimalsExpandedEndangered.JobDriver_GotoTheWild</driverClass>
+		<reportString>going to the wild.</reportString>
+		<allowOpportunisticPrefix>true</allowOpportunisticPrefix>
+	</JobDef>
 
 </Defs>

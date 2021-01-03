@@ -34,6 +34,10 @@
     <Prefer32Bit>false</Prefer32Bit>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="0Harmony">
+      <HintPath>..\..\..\..\..\Harmony\Current\Assemblies\0Harmony.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
     <Reference Include="Assembly-CSharp">
       <HintPath>..\..\..\..\..\..\RimWorldWin64_Data\Managed\Assembly-CSharp.dll</HintPath>
       <Private>False</Private>
@@ -294,8 +298,11 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Gizmo_Patch.cs" />
+    <Compile Include="IncidentWorker_ExtintAnimalsPasses.cs" />
     <Compile Include="CompEatAntsWhenHungry.cs" />
     <Compile Include="CompProperties_EatAntsWhenHungry.cs" />
+    <Compile Include="JobDriver_GoToWild.cs" />
     <Compile Include="JobDriver_EatAnts.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
