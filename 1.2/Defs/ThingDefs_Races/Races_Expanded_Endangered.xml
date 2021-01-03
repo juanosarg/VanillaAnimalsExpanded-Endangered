@@ -119,6 +119,7 @@
 		</race>
 		<tradeTags>
 			<li>AnimalEndangered</li>
+			<li>AnimalAlpha</li>
 		</tradeTags>
 	</ThingDef>
 
@@ -258,6 +259,7 @@
 		</race>
 		<tradeTags>
 			<li>AnimalEndangered</li>
+			<li>AnimalAlpha</li>
 		</tradeTags>
 	</ThingDef>
 	<PawnKindDef ParentName="AnimalKindBase">
@@ -409,6 +411,7 @@
 		</race>
 		<tradeTags>
 			<li>AnimalEndangered</li>
+			<li>AnimalAlpha</li>
 		</tradeTags>
 	</ThingDef>
 
@@ -544,6 +547,7 @@
 		</tools>
 		<tradeTags>
 			<li>AnimalEndangered</li>
+			<li>AnimalAlpha</li>
 		</tradeTags>
 	</ThingDef>
 
@@ -711,6 +715,7 @@
 		</race>
 		<tradeTags>
 			<li>AnimalEndangered</li>
+			<li>AnimalAlpha</li>
 		</tradeTags>
 	</ThingDef>
 
@@ -863,6 +868,7 @@
 		</race>
 		<tradeTags>
 			<li>AnimalEndangered</li>
+			<li>AnimalAlpha</li>
 		</tradeTags>
 	</ThingDef>
 	<PawnKindDef ParentName="AnimalKindBase">
@@ -1036,6 +1042,7 @@
 		</race>		
 		<tradeTags>
 			<li>AnimalEndangered</li>
+			<li>AnimalAlpha</li>
 		</tradeTags>
 	</ThingDef>
 
@@ -1194,6 +1201,7 @@
 		</race>
 		<tradeTags>
 			<li>AnimalEndangered</li>
+			<li>AnimalAlpha</li>
 		</tradeTags>
 	</ThingDef>
 
@@ -1347,6 +1355,7 @@
 		</race>
 		<tradeTags>
 			<li>AnimalEndangered</li>
+			<li>AnimalAlpha</li>
 		</tradeTags>
 	</ThingDef>
 
@@ -1534,6 +1543,7 @@
 		</race>
 		<tradeTags>
 			<li>AnimalEndangered</li>
+			<li>AnimalAlpha</li>
 		</tradeTags>
 	</ThingDef>
 
@@ -1680,6 +1690,7 @@
 		</race>
 		<tradeTags>
 			<li>AnimalEndangered</li>
+			<li>AnimalAlpha</li>
 		</tradeTags>
 	</ThingDef>
 
