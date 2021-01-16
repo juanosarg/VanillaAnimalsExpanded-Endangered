@@ -305,6 +305,8 @@
     <Compile Include="JobDriver_GoToWild.cs" />
     <Compile Include="JobDriver_EatAnts.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="VanillaAnimalsExpandedEndangeredMod.cs" />
+    <Compile Include="VanillaAnimalsExpandedEndangeredSettings.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
