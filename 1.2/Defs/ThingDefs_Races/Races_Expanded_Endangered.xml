@@ -129,6 +129,7 @@
 		<race>AEXP_BlackFootedFerret</race>
 		<combatPower>30</combatPower>
 		<ecoSystemWeight>0.1</ecoSystemWeight>
+		<canArriveManhunter>false</canArriveManhunter>
 		<lifeStages>
 			<li>
 				<bodyGraphicData>
@@ -270,6 +271,7 @@
 		<combatPower>240</combatPower>
 		<ecoSystemWeight>1.33</ecoSystemWeight>
 		<wildGroupSize>1~4</wildGroupSize>
+		<canArriveManhunter>false</canArriveManhunter>
 		<lifeStages>
 			<li>
 				<bodyGraphicData>
@@ -422,6 +424,7 @@
 		<combatPower>35</combatPower>
 		<ecoSystemWeight>0.30</ecoSystemWeight>
 		<wildGroupSize>3~7</wildGroupSize>
+		<canArriveManhunter>false</canArriveManhunter>
 		<lifeStages>
 			<li>
 				<bodyGraphicData>
@@ -557,6 +560,7 @@
 		<race>AEXP_Moa</race>
 		<combatPower>110</combatPower>
 		<ecoSystemWeight>0.50</ecoSystemWeight>
+		<canArriveManhunter>false</canArriveManhunter>
 		<lifeStages>
 			<li>
 				<bodyGraphicData>
@@ -726,6 +730,7 @@
 		<race>AEXP_Panda</race>
 		<combatPower>180</combatPower>
 		<ecoSystemWeight>0.5</ecoSystemWeight>
+		<canArriveManhunter>false</canArriveManhunter>
 		<lifeStages>
 			<li>
 				<bodyGraphicData>
@@ -881,6 +886,7 @@
 			<min>4</min>
 			<max>8</max>
 		</wildGroupSize>
+		<canArriveManhunter>false</canArriveManhunter>
 		<lifeStages>
 			<li>
 				<label>quagga foal</label>
@@ -1055,6 +1061,7 @@
 			<max>7</max>
 		</wildGroupSize>
 		<race>AEXP_RockhopperPenguin</race>
+		<canArriveManhunter>false</canArriveManhunter>
 		<combatPower>40</combatPower>
 		<lifeStages>
 			<li>
@@ -1211,6 +1218,7 @@
 		<race>AEXP_TasmanianDevil</race>
 		<combatPower>80</combatPower>
 		<ecoSystemWeight>0.6</ecoSystemWeight>
+		<canArriveManhunter>false</canArriveManhunter>
 		<lifeStages>
 			<li>
 
@@ -1365,6 +1373,7 @@
 		<race>AEXP_Thylacine</race>
 		<combatPower>85</combatPower>
 		<ecoSystemWeight>0.7</ecoSystemWeight>
+		<canArriveManhunter>false</canArriveManhunter>
 		<lifeStages>
 			<li>
 
@@ -1553,6 +1562,7 @@
 		<defName>AEXP_AfricanWildDog</defName>
 		<label>african wild dog</label>
 		<race>AEXP_AfricanWildDog</race>
+		<canArriveManhunter>false</canArriveManhunter>
 		<lifeStages>
 			<li>
 				<label>african wild dog puppy</label>
@@ -1699,6 +1709,7 @@
 		<label>giant pangolin</label>
 		<race>AEXP_Pangolin</race>
 		<combatPower>45</combatPower>
+		<canArriveManhunter>false</canArriveManhunter>
 		<ecoSystemWeight>0.35</ecoSystemWeight>
 		
 		<lifeStages>
