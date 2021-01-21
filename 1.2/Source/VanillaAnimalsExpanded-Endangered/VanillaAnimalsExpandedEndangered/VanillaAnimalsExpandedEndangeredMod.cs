@@ -43,7 +43,7 @@ namespace VanillaAnimalsExpandedEndangered
             {
                 foreach (var animal in DefDatabase<PawnKindDef>.AllDefs.Where(x => x.race.race.Animal))
                 {
-                    IncidentWorker_ExtintAnimalsPasses.extintPawnKinds.Add(animal);
+                    Pawn_GetGizmos_Patch.animalsToBanish.Add(animal);
                 }
             }
         }
