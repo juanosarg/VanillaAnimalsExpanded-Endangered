@@ -59,8 +59,9 @@ namespace VanillaAnimalsExpandedEndangered
 		};*/
 		public static void Postfix(ref IEnumerable<Gizmo> __result, Pawn __instance)
 		{
-			if (__instance.Faction == Faction.OfPlayer && animalsToBanish.Contains(__instance.kindDef))
+			if (__instance.Faction == Faction.OfPlayer && (animalsToBanish.Contains(__instance.kindDef) || VanillaAnimalsExpandedEndangeredMod.settings.addBanishToAllAnimals))
 			{
+				
 				List<Gizmo> list = __result.ToList<Gizmo>();
 				Command_Action command_Action = new Command_Action();
 				command_Action.defaultLabel = "VAEE.ReleaseToRepopulate".Translate();

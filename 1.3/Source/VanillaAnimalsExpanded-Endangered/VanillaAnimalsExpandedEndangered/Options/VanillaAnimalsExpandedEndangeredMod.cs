@@ -27,25 +27,8 @@ namespace VanillaAnimalsExpandedEndangered
         public override void WriteSettings()
         {
             base.WriteSettings();
-            DefsAlterer.DoDefsAlter();
+            
         }
     }
-    [StaticConstructorOnStartup]
-    public static class DefsAlterer
-    {
-        static DefsAlterer()
-        {
-            DoDefsAlter();
-        }
-        public static void DoDefsAlter()
-        {
-            if (VanillaAnimalsExpandedEndangeredMod.settings.addBanishToAllAnimals)
-            {
-                foreach (var animal in DefDatabase<PawnKindDef>.AllDefs.Where(x => x.race.race.Animal))
-                {
-                    Pawn_GetGizmos_Patch.animalsToBanish.Add(animal);
-                }
-            }
-        }
-    }
+    
 }
