@@ -59,7 +59,7 @@ namespace VanillaAnimalsExpandedEndangered
 		};*/
 		public static void Postfix(ref IEnumerable<Gizmo> __result, Pawn __instance)
 		{
-			if (__instance.Faction == Faction.OfPlayer && (animalsToBanish.Contains(__instance.kindDef) || VanillaAnimalsExpandedEndangeredMod.settings.addBanishToAllAnimals))
+			if (__instance.Faction == Faction.OfPlayer && (animalsToBanish.Contains(__instance.kindDef) || (VanillaAnimalsExpandedEndangeredMod.settings.addBanishToAllAnimals&& __instance.kindDef.RaceProps.Animal)))
 			{
 				
 				List<Gizmo> list = __result.ToList<Gizmo>();
