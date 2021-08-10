@@ -489,8 +489,7 @@
 			<baseHealthScale>2</baseHealthScale>
 			<baseHungerRate>0.6</baseHungerRate>
 			<foodType>VegetarianRoughAnimal</foodType>
-			<wildness>0.95</wildness>
-			<roamMtbDays>2</roamMtbDays>
+			<wildness>0.95</wildness>			
 			<lifeExpectancy>45</lifeExpectancy>
 			<useMeatFrom>Cassowary</useMeatFrom>
 			<manhunterOnTameFailChance>1.00</manhunterOnTameFailChance>
@@ -870,7 +869,6 @@
 			<wildness>0.5</wildness>
 			<packAnimal>true</packAnimal>
 			<petness>0.6</petness>
-			<roamMtbDays>2</roamMtbDays>
 			<trainability>None</trainability>
 			<manhunterOnDamageChance>0.1</manhunterOnDamageChance>
 			<useMeatFrom>Horse</useMeatFrom>
